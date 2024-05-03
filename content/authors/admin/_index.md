@@ -48,10 +48,10 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
-        icon: python
+        icon: researcherid
         icon_pack: fab
       - name: Data Science
         description: ''

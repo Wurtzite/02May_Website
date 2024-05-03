@@ -48,10 +48,10 @@ education:
 skills:
   - name: Technical
     items:
-      - name: R
+      - name:  R studio
         description: ''
         percent: 80
-        icon: researcherid
+        icon:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
         icon_pack: fab
       - name: Data Science
         description: ''

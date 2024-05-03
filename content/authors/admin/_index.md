@@ -48,11 +48,11 @@ education:
 skills:
   - name: Technical
     items:
-      - name:  R studio
+      - name:  R-studio
         description: ''
         percent: 80
         icon: rstudio-original
-        icon_pack: devicon
+        icon_pack: custom
       - name: Data Science
         description: ''
         percent: 100

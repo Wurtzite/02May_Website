@@ -51,7 +51,7 @@ skills:
       - name:  R-studio
         description: ''
         percent: 80
-        icon: rstudio-original
+        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
         icon_pack: custom
       - name: Data Science
         description: ''

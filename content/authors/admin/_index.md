@@ -44,24 +44,24 @@ education:
       year: 2008
 
 # Skills
-# For available icons, see: r
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
       - name: R-studio
         description: ''
-        percent: 50
+        percent: 65
         icon: rstudio-original
         icon_pack: custom
       - name: Stata
         description: ''
-        percent: 50
+        percent: 80
         icon: stata-original-wordmark
         icon_pack: custom
-      - name: SQL
+      - name: Model Building
         description: ''
-        percent: 50
-        icon: database
+        percent: 90
+        icon: table-cells
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'

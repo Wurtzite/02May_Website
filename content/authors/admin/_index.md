@@ -67,9 +67,9 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Cardio
         description: ''
-        percent: 60
+        percent: 10
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -77,11 +77,11 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Weight Lifting
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        percent: 75
+        icon: barbell
+        icon_pack:custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

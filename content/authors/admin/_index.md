@@ -44,7 +44,7 @@ education:
       year: 2008
 
 # Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# For available icons, see: r
 skills:
   - name: Technical
     items:
@@ -52,7 +52,7 @@ skills:
         description: ''
         percent: 80
         icon: rstudio-original.svg
-        icon_pack: custom
+        icon_pack: customfiles
       - name: Data Science
         description: ''
         percent: 100

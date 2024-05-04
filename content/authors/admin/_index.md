@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Analytical Epidemiologist and Public Health Advisor
+title: Epidemiologist
 
 # Name pronunciation (optional)
 name_pronunciation: Justinian
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Testing Website
+role: Analytical Epidemiologist and Public Health Advisor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Test Uni
+  - name: Iowa Department of Health and Human Services
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,11 +37,11 @@ interests:
 education:
   courses:
     - course: MSc
-      institution: UNI
-      year: 2009
+      institution: University of Guelph
+      year: 2019
     - course: BSc 
-      institution: UNI
-      year: 2008
+      institution: University of Northern Iowa
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

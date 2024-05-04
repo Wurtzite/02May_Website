@@ -81,7 +81,7 @@ skills:
         description: ''
         percent: 75
         icon: barbell
-        icon_pack:custom
+        icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

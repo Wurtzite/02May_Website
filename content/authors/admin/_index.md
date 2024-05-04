@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Analytical Epidemiologist and Public Health Advisor
+role: Viral Hepatitis Surveillance Coordinator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Example Bio
 
 # Interests to show in About widget
 interests:

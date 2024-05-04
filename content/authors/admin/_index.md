@@ -50,14 +50,14 @@ skills:
     items:
       - name: R-studio
         description: ''
-        percent: 80
+        percent: 600
         icon: rstudio-original
         icon_pack: custom
-      - name: Data Science
+      - name: Stata
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+        percent: 80
+        icon: stata-original-wordmark
+        icon_pack: custom
       - name: SQL
         description: ''
         percent: 40

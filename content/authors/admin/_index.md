@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Mr
+title: Analytical Epidemiologist and Public Health Advisor
 
 # Name pronunciation (optional)
 name_pronunciation: Justinian
 
 # Full name (for SEO)
-first_name: JMW
-last_name: WMJ
+first_name: Justinian
+last_name: Wurtzel
 
 # Status emoji
 status:

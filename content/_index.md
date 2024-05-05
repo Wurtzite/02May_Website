@@ -62,6 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+    
         - title: Viral Hepatitis Surveillance Coordinator
           company: Iowa Department of Health and Human Services Bureau of HIV, STI, and Hepatitis
           company_url: 'https://hhs.iowa.gov/public-health/sexually-transmitted-infections'
@@ -79,9 +80,10 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Sioux Lookout, Ontario Canada
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2019-01-07'
+          date_end: '2021-07-03'
+          description: Public Health Epi 
+
     design:
       columns: '2'
   - block: accomplishments

@@ -29,9 +29,12 @@ bio: Example Bio
 
 # Interests to show in About widget
 interests:
-  - Infectious Disease
-  - Epidemiology
-  - Regression Analysis
+  - HIV, STIs, and Viral Hepatitis
+  - Alcohol-related disparities
+  - People who inject drugs
+  - Sexual and gender minority health
+  - AI/ML tools and methods in Public Health
+  - Public Health Security
 
 # Education to show in About widget
 education:
@@ -39,7 +42,7 @@ education:
     - course: MSc
       institution: University of Guelph
       year: 2019
-    - course: BSc 
+    - course: BA 
       institution: University of Northern Iowa
       year: 2014
 

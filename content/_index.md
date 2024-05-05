@@ -67,13 +67,21 @@ sections:
           company_url: 'hhs.iowa.gov/public-health/sexually-transmitted-infections'
           company_logo: logo-iowa
           location: Des Moines, Iowa United States
-          date_start: '2021-01-01'
+          date_start: '2021-08-23'
           date_end: ''
           description: |2-
               Responsibilities include:
               * Analysing
               * Modelling
               * Surveillance
+    - title: Public Health Epidemiologist
+          company: Sioux Lookout First Nations Health Authority
+          company_url: 'https://www.slfnha.com/'
+          company_logo: 
+          location: Sioux Lookout, Ontario Canada
+          date_start: '2019-07-02'
+          date_end: '2021-03-07'
+          description: empty desc
     design:
       columns: '2'
   - block: accomplishments

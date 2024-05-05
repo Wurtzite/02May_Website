@@ -74,15 +74,6 @@ sections:
               * Analysing
               * Modelling
               * Surveillance
-    
-        - title: Public Health Epidemiologist
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: Sioux Lookout, Ontario Canada
-          date_start: '2019-01-07'
-          date_end: '2021-07-03'
-          description: Public Health Epi 
     design:
       columns: '2'
   - block: accomplishments

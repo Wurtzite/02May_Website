@@ -74,6 +74,7 @@ sections:
               * Analysing
               * Modelling
               * Surveillance
+    
         - title: Public Health Epidemiologist
           company: University X
           company_url: ''

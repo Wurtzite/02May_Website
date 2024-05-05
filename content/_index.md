@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -62,7 +62,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-    
         - title: Viral Hepatitis Surveillance Coordinator
           company: Iowa Department of Health and Human Services Bureau of HIV, STI, and Hepatitis
           company_url: 'https://hhs.iowa.gov/public-health/sexually-transmitted-infections'
@@ -83,7 +82,6 @@ sections:
           date_start: '2019-01-07'
           date_end: '2021-07-03'
           description: Public Health Epi 
-
     design:
       columns: '2'
   - block: accomplishments

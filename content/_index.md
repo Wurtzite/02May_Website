@@ -76,7 +76,7 @@ sections:
               * Surveillance
     - title: Public Health Epidemiologist
           company: Sioux Lookout First Nations Health Authority
-          company_url: 'https://www.slfnha.com/'
+          company_url: '//www.slfnha.com/'
           company_logo: 
           location: Sioux Lookout, Ontario Canada
           date_start: '2019-07-02'

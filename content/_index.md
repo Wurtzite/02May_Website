@@ -64,10 +64,10 @@ sections:
       items:
         - title: Viral Hepatitis Surveillance Coordinator
           company: Iowa Department of Health and Human Services Bureau of HIV, STI, and Hepatitis
-          company_url: 'https://hhs.iowa.gov/public-health/sexually-transmitted-infections'
+          company_url: 'hhs.iowa.gov/public-health/sexually-transmitted-infections'
           company_logo: logo-iowa
           location: Des Moines, Iowa United States
-          date_start: '2021-23-08'
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:

@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Full Biography Here.
+Analytical Epidemiologist and Public Health Advisor 
 {style="text-align: justify;"}

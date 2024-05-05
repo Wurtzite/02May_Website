@@ -66,7 +66,7 @@ sections:
           company: Iowa Department of Health and Human Services Bureau of HIV, STI, and Hepatitis
           company_url: 'https://hhs.iowa.gov/public-health/sexually-transmitted-infections'
           company_logo: logo-iowa
-          location: Iowa
+          location: Des Moines, Iowa United States
           date_start: '2021-23-08'
           date_end: ''
           description: |2-
@@ -74,11 +74,11 @@ sections:
               * Analysing
               * Modelling
               * Surveillance
-        - title: Professor of Semiconductor Physics
+        - title: Public Health Epidemiologist
           company: University X
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Sioux Lookout, Ontario Canada
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.

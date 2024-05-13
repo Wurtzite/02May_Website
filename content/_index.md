@@ -49,7 +49,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '2'
+      columns: '1'
   - block: experience
     content:
       title: Experiences
@@ -78,7 +78,7 @@ sections:
           date_start: '2019-07-02'
           date_end: '2021-03-07'
           description:
-    - title: Data Clerk
+        - title: Data Clerk
           company: Wellington Dufferin Guelph Public Health
           company_url: 
           company_logo:
@@ -86,7 +86,7 @@ sections:
           date_start: '2018-09-01'
           date_end: '2019-09-01'
           description:
-      - title: Chemist, Laboratory Manager
+        - title: Chemist, Laboratory Manager
           company: Northland Technical Laboratories
           company_url: 
           company_logo:

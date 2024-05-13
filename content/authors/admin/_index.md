@@ -64,7 +64,7 @@ skills:
       - name: Model Building
         description: ''
         percent: 90
-        icon: chart-bar-square
+        icon: chart-line
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'

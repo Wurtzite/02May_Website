@@ -69,11 +69,7 @@ sections:
           location: Des Moines, Iowa United States
           date_start: '2021-08-23'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-              * Analysing
-              * Modelling
-              * Surveillance
+          description:
         - title: Public Health Epidemiologist
           company: Sioux Lookout First Nations Health Authority
           company_url: '//www.slfnha.com/'
@@ -81,13 +77,29 @@ sections:
           location: Sioux Lookout, Ontario Canada
           date_start: '2019-07-02'
           date_end: '2021-03-07'
-          description: empty desc
+          description:
+    - title: Data Clerk
+          company: Wellington Dufferin Guelph Public Health
+          company_url: 
+          company_logo:
+          location: Guelph, Ontario Canada
+          date_start: '2018-09-01'
+          date_end: '2019-09-01'
+          description:
+      - title: Chemist, Laboratory Manager
+          company: Northland Technical Laboratories
+          company_url: 
+          company_logo:
+          location: Concord, Ontario Canada
+          date_start: '2014-08-01'
+          date_end: '2018-01-01'
+          description: 
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Accomplishments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006

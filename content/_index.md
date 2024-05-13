@@ -99,7 +99,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplishments'
+      title: 'Awards & Honours'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -109,32 +109,21 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: ''
           description: ''
-          icon: coursera
+          icon: 
           organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization_url: 
+          title: 
+          Outstanding Student Chapter Award, 2014, American Chemical Society
+          Research Grant, 2013, University of Northern Iowa, College of Arts & Science
+          Best College LGBT Group Award, 2013, Iowa Pride Network
+          ACS Travel Award, 2011, American Chemical Society
+          Student Opportunities for Academic Research Grant, 2010, University of Northern Iowa
+          Entrance Scholarship, 2010, University of Northern Iowa
+          Undergraduate Research Scholarship, 2010, University of Northern Iowa
           url: ''
     design:
       columns: '2'

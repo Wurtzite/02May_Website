@@ -121,7 +121,7 @@ sections:
           Entrance Scholarship, 2010, University of Northern Iowa
           Undergraduate Research Scholarship, 2010, University of Northern Iowa'
           icon: 
-          organization: Coursera
+          organization: 
           organization_url: 
           title:
           url: ''

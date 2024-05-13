@@ -96,7 +96,7 @@ sections:
           description: 
     design:
       columns: '2'
-  - block: Awards & Honours
+  - block: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards & Honours'
@@ -109,15 +109,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
-          date_end: ''
-          date_start: '2014'
-          description: ''
-          icon: 
+        - title: Outstanding Student Chapter Award
           organization: American Chemical Society
-          organization_url: 
-          title: Outstanding Student Chapter Award
-          url: ''
+          date_start: '2014-01-01'
     design:
       columns: '2'
   - block: collection

@@ -111,12 +111,12 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: ''
+          date_start: '2014'
           description: ''
           icon: 
-          organization: 
+          organization: American Chemical Society
           organization_url: 
-          title:
+          title: Outstanding Student Chapter Award
           url: ''
     design:
       columns: '2'

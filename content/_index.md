@@ -96,14 +96,14 @@ sections:
           description: 
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Awards & Honours
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards & Honours'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Accomplishments.
+      # Awards & Honours.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
@@ -112,14 +112,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: ''
-          description: '
-          Outstanding Student Chapter Award, 2014, American Chemical Society
-          Research Grant, 2013, University of Northern Iowa, College of Arts & Science
-          Best College LGBT Group Award, 2013, Iowa Pride Network
-          ACS Travel Award, 2011, American Chemical Society
-          Student Opportunities for Academic Research Grant, 2010, University of Northern Iowa
-          Entrance Scholarship, 2010, University of Northern Iowa
-          Undergraduate Research Scholarship, 2010, University of Northern Iowa'
+          description: ''
           icon: 
           organization: 
           organization_url: 

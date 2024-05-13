@@ -112,18 +112,18 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: ''
-          description: ''
-          icon: 
-          organization: Coursera
-          organization_url: 
-          title: 
+          description: '
           Outstanding Student Chapter Award, 2014, American Chemical Society
           Research Grant, 2013, University of Northern Iowa, College of Arts & Science
           Best College LGBT Group Award, 2013, Iowa Pride Network
           ACS Travel Award, 2011, American Chemical Society
           Student Opportunities for Academic Research Grant, 2010, University of Northern Iowa
           Entrance Scholarship, 2010, University of Northern Iowa
-          Undergraduate Research Scholarship, 2010, University of Northern Iowa
+          Undergraduate Research Scholarship, 2010, University of Northern Iowa'
+          icon: 
+          organization: Coursera
+          organization_url: 
+          title:
           url: ''
     design:
       columns: '2'

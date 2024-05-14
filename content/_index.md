@@ -246,7 +246,7 @@ sections:
       phone: 
       appointment_url: 'https://calendly.com/justinianmwurtzel/30min'
       address:
-        street: 4
+        street: 
         city: Des Moines
         region: IA
         postcode: '50311'

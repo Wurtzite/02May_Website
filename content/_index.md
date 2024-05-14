@@ -240,7 +240,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        For research collaborations or contract analysis work please fill out the form below. 
+    For research collaborations or contract analysis work please fill out the form below. 
       # Contact (add or remove contact options as necessary)
       email: justinianwurtzel@gmail.com
       appointment_url: 'https://calendly.com/justinianmwurtzel/30min'

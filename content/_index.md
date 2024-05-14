@@ -244,8 +244,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: justinianwurtzel@gmail.com
       phone:
-      appointment_url: 'https://calendly.com/justinianmwurtzel'
-      appointment_url: ''
+      appointment_url: '[https://calendly.com/justinianmwurtzel'](https://calendly.com/justinianmwurtzel/30min)
       address:
         street: 
         city: Des Moines

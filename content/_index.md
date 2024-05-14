@@ -275,6 +275,7 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
+    email: justinianwurtzel@gmail.com
     design:
       columns: '2'
 ---

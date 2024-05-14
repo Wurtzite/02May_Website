@@ -273,7 +273,6 @@ sections:
         formspree:
           id:
         netlify:
-        email: justinianwurtzel@gmail.com
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:

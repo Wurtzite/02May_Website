@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: justinmwurtzel@gmail.com
+    link: "mailto:justinmwurtzel@gmail.com"
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?hl=en&user=uwK7hQ0AAAAJ

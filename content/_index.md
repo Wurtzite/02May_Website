@@ -243,32 +243,19 @@ sections:
         For research collaborations or contract analysis work please fill out the form below. 
       # Contact (add or remove contact options as necessary)
       email: justinianwurtzel@gmail.com
-      phone:
       appointment_url: 'https://calendly.com/justinianmwurtzel/30min'
-      address:
-        street: 
         city: Des Moines
         region: IA
         postcode: '50311'
         country: United States
         country_code: US
-      directions: 
       office_hours:
         - 'Monday-Friday 12:00 pm to 12:30 pm'
         - 'Monday-Friday 4:45 pm to 7:00 pm'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: ''
-        longitude:  
-     # contact_links:
-      #  - icon: video
-       #   icon_pack: fas
-        #  name: Zoom Me
-         # link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
+      form: 
         provider: netlify
         formspree:
           id:

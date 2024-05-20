@@ -229,7 +229,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
+#  - block: tag_cloud
     content:
       title: Popular Topics
     design:

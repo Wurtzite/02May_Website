@@ -132,7 +132,7 @@ sections:
           date_start: '2010-01-01'
     design:
       columns: '2'
-#  - block: collection
+  - block: collection
     id: posts
     content:
       title: Recent Posts

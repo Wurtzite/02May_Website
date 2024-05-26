@@ -231,7 +231,7 @@ sections:
       view: compact
 #  - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Pop Top
     design:
       columns: '2'
   - block: contact

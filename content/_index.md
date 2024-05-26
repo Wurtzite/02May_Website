@@ -229,11 +229,6 @@ sections:
     design:
       columns: '2'
       view: compact
-#  - block: tag_cloud
-    content:
-      title: Pop Top
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:

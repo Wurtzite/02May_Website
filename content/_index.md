@@ -239,8 +239,7 @@ sections:
         country_code: US
       directions: 
       office_hours:
-        - 'Monday 12:00 to 12:30 PM'
-        - 'Wednesday 04:30 to 6:30 PM'
+        - 'M to F  12:00 to 12:30 PM & 04:30 to 6:30 PM'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: ''

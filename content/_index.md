@@ -194,7 +194,7 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
- - block: collection
+  - block: collection
     id: featured
     content:
       title: Featured Publications
@@ -205,7 +205,7 @@ sections:
     design:
       columns: '2'
       view: card
- - block: collection
+  - block: collection
     content:
       title: Recent Publications
       text: |-

@@ -205,20 +205,6 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:
@@ -239,7 +225,8 @@ sections:
         country_code: US
       directions: 
       office_hours:
-        - 'M to F  12:00 to 12:30 PM & 04:30 to 6:30 PM'
+        - 'Monday to Friday  12:00 to 12:30 PM'
+        - 'Monday to Wednesday 04:30 to 6:30 PM'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: ''

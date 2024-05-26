@@ -51,14 +51,13 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experiences
-    id: experiences
+  - block: Experiences
     content:
-      title: experiences
+      title: Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # experiences.
+      # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.

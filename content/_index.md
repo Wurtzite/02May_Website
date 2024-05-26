@@ -194,7 +194,7 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-#  - block: collection
+ - block: collection
     id: featured
     content:
       title: Featured Publications

@@ -1,0 +1,46 @@
+block: Experiences
+    content:
+      title: Experiences
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Viral Hepatitis Surveillance Coordinator
+          company: Iowa Department of Health and Human Services Bureau of HIV, STI, and Hepatitis
+          company_url: 'hhs.iowa.gov/public-health/sexually-transmitted-infections'
+          company_logo:
+          location: Des Moines, Iowa United States
+          date_start: '2021-08-23'
+          date_end: ''
+          description:
+        - title: Public Health Epidemiologist
+          company: Sioux Lookout First Nations Health Authority
+          company_url: '//www.slfnha.com/'
+          company_logo:
+          location: Sioux Lookout, Ontario Canada
+          date_start: '2019-07-02'
+          date_end: '2021-03-07'
+          description:
+        - title: Data Clerk
+          company: Wellington Dufferin Guelph Public Health
+          company_url: 
+          company_logo:
+          location: Guelph, Ontario Canada
+          date_start: '2018-09-01'
+          date_end: '2019-09-01'
+          description:
+        - title: Chemist, Laboratory Manager
+          company: Northland Technical Laboratories
+          company_url: 
+          company_logo:
+          location: Concord, Ontario Canada
+          date_start: '2014-08-01'
+          date_end: '2018-01-01'
+          description: 
+    design:
+      columns: '2'

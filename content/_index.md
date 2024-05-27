@@ -19,7 +19,7 @@ sections:
       # Show a call-to-action button under your biography? (optional) 
       button: 📚
       text: Download CV
-      url: static/uploads/LifetimeCV_May2024.pdf
+      url: uploads/LifetimeCV_May2024.pdf
   - block: 
     content:
       title: Experiences

@@ -74,7 +74,7 @@ sections:
       items:
         - title: Outstanding Chapter Award
           organization: American Chemical Society
-          date_start: '2014-01-01'
+          date: '2014-01-01'
         - title: Research Grant
           organization: University of Northern Iowa
           date_start: '2013-01-01'

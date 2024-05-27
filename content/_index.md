@@ -75,7 +75,7 @@ sections:
         - title: PS21-2103 Integrated Viral Hepatitis Surveillance and Prevention Funding for Health Departments
           Granting Agency: Centers for Disease Control and Prevention (CDC).
           date_start: '2021-05-01'
-          Goals:
+          description:|2-
            Component 1: Viral hepatitis outbreak response and surveillance
            Component 2: Viral hepatitis prevention
            Component 3: Special projects related to the infectious disease consequences of drug use

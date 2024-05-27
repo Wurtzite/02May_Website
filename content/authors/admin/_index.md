@@ -33,8 +33,8 @@ interests:
   - Alcohol-related disparities
   - People who inject drugs
   - Sexual and gender minority health
-  - AI/ML tools and methods in Public Health
-  - Public Health Security
+  - AI/ML tools and methods 
+  - Public health security
 
 # Education to show in About widget
 education:

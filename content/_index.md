@@ -75,24 +75,31 @@ sections:
         - title: Outstanding Chapter Award
           organization: American Chemical Society
           date_start: '2014-01-01'
+          date_end: '2015-01-01'
         - title: Research Grant
           organization: University of Northern Iowa
           date_start: '2013-01-01'
+          date_end: '2014-01-01'
         - title: Best College LGBT Group Award
           organization: Iowa Pride Network
           date_start: '2013-01-01'
+          date_end: '2014-01-01'
         - title: ACS Travel Award
           organization: American Chemical Society
           date_start: '2011-01-01'
+          date_end: '2012-01-01'
         - title: SOAR Grant, Research
           organization: University of Northern Iowa
           date_start: '2011-01-01'
+          date_end: '2012-01-01'
         - title: Undergraduate Research Scholarship 
           organization: University of Northern Iowa
           date_start: '2011-01-01'
+          date_end: '2012-01-01'
         - title: Entrance Scholarship 
           organization: University of Northern Iowa
           date_start: '2010-01-01'
+          date_end: '2011-01-01'
     design:
       columns: '2'
   - block: markdown

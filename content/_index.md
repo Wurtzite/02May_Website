@@ -58,8 +58,8 @@ sections:
           description: 
     design:
       columns: '2'
-  - block: collection
-    id: award
+  - block: award
+    id: 
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: Award

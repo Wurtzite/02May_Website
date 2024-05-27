@@ -107,8 +107,8 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
-  #  icon_pack: ai
-  #  link: uploads/LifetimeCV_May2024.pdf
+    icon_pack: ai
+    link: uploads/LifetimeCV_May2024.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

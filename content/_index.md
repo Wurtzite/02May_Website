@@ -42,7 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: Experiences
+    - block: Experiences
     content:
       title: Experiences
       # Date format for experience
@@ -88,7 +88,7 @@ sections:
           description: 
     design:
       columns: '2'
-  - block: collection
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: Awards & Honours

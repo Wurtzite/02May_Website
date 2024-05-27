@@ -72,6 +72,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+       - title: PS21-2103 Integrated Viral Hepatitis Surveillance and Prevention Funding for Health Departments
+         Granting Agency: Centers for Disease Control and Prevention (CDC).
+         date_start: '2021-05-01'
+         Goals:
+          Component 1: Viral hepatitis outbreak response and surveillance
+          Component 2: Viral hepatitis prevention
+          Component 3: Special projects related to the infectious disease consequences of drug use
         - title: Outstanding Chapter Award
           organization: American Chemical Society
           date_start: '2014-01-01'

@@ -42,7 +42,7 @@ sections:
           description:
         - title: Data Clerk
           company: Wellington Dufferin Guelph Public Health
-          company_url: 
+          company_url: 'https://wdgpublichealth.ca/'
           company_logo:
           location: Guelph, Ontario Canada
           date_start: '2018-09-01'

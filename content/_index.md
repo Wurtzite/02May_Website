@@ -70,9 +70,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      - title: Outstanding Chapter Award
-        organization: American Chemical Society
-        date_start: '2014-01-01'
+        - title: Outstanding Chapter Award
+          organization: American Chemical Society
+          date_start: '2014-01-01'
         - title: Research Grant
           organization: University of Northern Iowa
           date_start: '2013-01-01'

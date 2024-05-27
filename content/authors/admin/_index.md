@@ -113,4 +113,4 @@ social:
 highlight_name: true
 ---
 A compassionate scientist with six years of public health experience at local, tribal, and state service levels with a decade of professional scientific work in chemistry, research, and epidemiology. An analytically and evidentially driven epidemiologist providing coordination and consultation over state-level initiatives to improve health, passionate about incorporating health equity in modern public health praxis.
-{style="text-align: justify;"}
+{style="text-align: align left;"}

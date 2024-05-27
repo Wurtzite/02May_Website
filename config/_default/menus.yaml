@@ -7,10 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Experience
+  - name: Experiences
     url: '#experiences'
     weight: 20
-  - name: Award
+  - name: Awards
     url: '#award'
     weight: 30
   - name: Contact

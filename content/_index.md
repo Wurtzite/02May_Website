@@ -10,7 +10,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
+      # Show a call-to-action button under your biography? (optional) 
+      button:
+      text: Download CV
+      url: static/uploads/LifetimeCV_May2024.pdf
   - block: about.biography
     id: about
     content:

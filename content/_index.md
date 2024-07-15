@@ -13,12 +13,16 @@ sections:
       username: admin
 
   - block: 
-    id: tools
-    title: hepatitis
-  
-  - block: 
-    id: skills
-    title: hepatitis
+    id: #tools
+      - Artificial Intelligence
+      - Computational Linguistics
+      - Information Retrieval
+       
+  - block: #skills
+    id: #skills
+      - Artificial Intelligence
+      - Computational Linguistics
+      - Information Retrieval: hepatitis
 
   - block: experience
     id: experiences 

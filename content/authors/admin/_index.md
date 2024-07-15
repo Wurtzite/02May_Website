@@ -49,11 +49,49 @@ education:
       institution: University of Northern Iowa
       year: 2014
 
-# Tools
-tools:
-  - https://wurtzite.shinyapps.io/HBCV2024/
-  - https://wurtzite.shinyapps.io/syphilisclassification/
-    
+sections:
+  - block: markdown
+    id: tool
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text:
+          - https://wurtzite.shinyapps.io/HBCV2024/
+          - https://wurtzite.shinyapps.io/syphilisclassification/
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+            
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:

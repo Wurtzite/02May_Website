@@ -39,10 +39,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc
+    - course: MSc, Epidemiology
       institution: University of Guelph
       year: 2019
-    - course: BA 
+    - course: BA, Biochemistry
       institution: University of Northern Iowa
       year: 2014
 # Skills

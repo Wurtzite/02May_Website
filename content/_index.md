@@ -18,7 +18,7 @@ sections:
       - Computational Linguistics
       - Information Retrieval
        
-  - block: skills
+  - block: 
     id: skills
       - Artificial Intelligence
       - Computational Linguistics

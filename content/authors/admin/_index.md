@@ -49,11 +49,6 @@ education:
       institution: University of Northern Iowa
       year: 2014
       
-# Tools to show in About widget
-  tools:
-    - https://wurtzite.shinyapps.io/HBCV2024/
-    - https://wurtzite.shinyapps.io/syphilisclassification/
-
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:

@@ -1,5 +1,5 @@
 ---
-  # Display name
+# Display name
 title: Epidemiologist
 
 # Name pronunciation (optional)

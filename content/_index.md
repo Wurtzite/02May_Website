@@ -13,11 +13,11 @@ sections:
       username: admin
 
   - block: markdown
-    id: tools
+    id: section-1
       - Information Retrieval
        
   - block: markdown
-    id: skills
+    id: section-2
       - Artificial Intelligence
 
   - block: experience

@@ -39,12 +39,19 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: MPH, Public Health Administration and Policy
+      institution: Des Moines University
+      year: Expected May 2025
     - course: MSc, Epidemiology
       institution: University of Guelph
       year: 2019
     - course: BA, Biochemistry
       institution: University of Northern Iowa
       year: 2014
+# Tools to show in About widget
+tools:
+  - https://wurtzite.shinyapps.io/HBCV2024/
+  - https://wurtzite.shinyapps.io/syphilisclassification/
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:

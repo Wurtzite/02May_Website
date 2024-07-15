@@ -36,7 +36,7 @@ interests:
   - AI/ML tools and methods 
   - Public health security
 
-# Research to show in About widget
+# Interests to show in About widget
 interests:
   - HIV, STIs, and Viral Hepatitis
   - Alcohol-related disparities

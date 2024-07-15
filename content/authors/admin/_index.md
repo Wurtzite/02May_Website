@@ -28,14 +28,14 @@ organizations:
 bio: Example Bio
 
 # Interests to show in About widget
-interests:
-  - HIV, STIs, and viral hepatitis
-  - Alcohol-related disparities
-  - People who inject drugs
-  - Sexual and gender minority health
-  - AI/ML tools and methods 
-  - Public health security
-    
+  interests:
+    - HIV, STIs, and viral hepatitis
+    - Alcohol-related disparities
+    - People who inject drugs
+    - Sexual and gender minority health
+    - AI/ML tools and methods 
+    - Public health security
+      
 # Education to show in About widget
   education:
     courses:

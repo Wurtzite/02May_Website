@@ -49,7 +49,7 @@ education:
       institution: University of Northern Iowa
       year: 2014
 
-sections:
+- sections:
   - block: markdown
     id: tools
     content:

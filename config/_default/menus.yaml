@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Tools
-    url: '#tools.md'
+    url: '#tools'
     weight: 20
   - name: Skills
     url: '#skills'

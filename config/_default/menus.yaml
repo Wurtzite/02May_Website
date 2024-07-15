@@ -8,10 +8,10 @@ main:
     url: '#about'
     weight: 10
   - name: Tools
-    url: /#section-1
+    url: '#tools'
     weight: 20
   - name: Skills
-    url: /#section-2
+    url: '#skills'
     weight: 30
   - name: Experiences
     url: '#experiences'

@@ -37,17 +37,17 @@ interests:
   - Public health security
     
 # Education to show in About widget
-education:
-  courses:
-    - course: MPH, Public Health Administration and Policy
-      institution: Des Moines University
-      year: Expected May 2025
-    - course: MSc, Epidemiology
-      institution: University of Guelph
-      year: 2019
-    - course: BA, Biochemistry
-      institution: University of Northern Iowa
-      year: 2014
+  education:
+    courses:
+      - course: MPH, Public Health Administration and Policy
+        institution: Des Moines University
+        year: Expected May 2025
+      - course: MSc, Epidemiology
+        institution: University of Guelph
+        year: 2019
+      - course: BA, Biochemistry
+        institution: University of Northern Iowa
+        year: 2014
 
   - block: markdown
     id: tools

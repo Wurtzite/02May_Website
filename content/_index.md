@@ -14,11 +14,7 @@ sections:
 
   - block: markdown
     id: tools
-    content:
     title: hepatitis
-    
-  - block: skills
-    id: skills
         
   - block: experience
     id: experiences 

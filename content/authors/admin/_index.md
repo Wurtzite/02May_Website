@@ -48,9 +48,7 @@ education:
     - course: BA, Biochemistry
       institution: University of Northern Iowa
       year: 2014
-  tools:
-    - https://wurtzite.shinyapps.io/HBCV2024/
-    - https://wurtzite.shinyapps.io/syphilisclassification/
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -114,6 +112,11 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/LifetimeCV_May2024.pdf
+
+# Tools
+tools:
+    - https://wurtzite.shinyapps.io/HBCV2024/
+    - https://wurtzite.shinyapps.io/syphilisclassification/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -29,16 +29,7 @@ bio: Example Bio
 
 # Interests to show in About widget
 interests:
-  - HIV, STIs, and Viral Hepatitis
-  - Alcohol-related disparities
-  - People who inject drugs
-  - Sexual and gender minority health
-  - AI/ML tools and methods 
-  - Public health security
-
-# Interests to show in About widget
-interests:
-  - HIV, STIs, and Viral Hepatitis
+  - HIV, STIs, and viral hepatitis
   - Alcohol-related disparities
   - People who inject drugs
   - Sexual and gender minority health

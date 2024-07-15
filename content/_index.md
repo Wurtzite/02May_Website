@@ -15,10 +15,9 @@ sections:
   - block: 
       id: tools
     
-  - block: experience
+  - block: 
       id: skills
-        content: blank
-        title: blank
+        
   - block: experience
     id: experiences 
     content:

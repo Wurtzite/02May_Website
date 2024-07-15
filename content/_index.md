@@ -15,7 +15,7 @@ sections:
   - block: tools
     id: tools
     
-  - block: tools
+  - block: skills
     id: skills
         
   - block: experience

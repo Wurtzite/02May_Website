@@ -28,38 +28,34 @@ organizations:
 bio: Example Bio
 
 # Interests to show in About widget
-  interests:
-    - HIV, STIs, and viral hepatitis
-    - Alcohol-related disparities
-    - People who inject drugs
-    - Sexual and gender minority health
-    - AI/ML tools and methods 
-    - Public health security
+interests:
+   - HIV, STIs, and viral hepatitis
+   - Alcohol-related disparities
+   - People who inject drugs
+   - Sexual and gender minority health
+   - AI/ML tools and methods 
+   - Public health security
       
 # Education to show in About widget
-  education:
-    courses:
-      - course: MPH, Public Health Administration and Policy
-        institution: Des Moines University
-        year: Expected May 2025
-      - course: MSc, Epidemiology
-        institution: University of Guelph
-        year: 2019
-      - course: BA, Biochemistry
-        institution: University of Northern Iowa
-        year: 2014
+education:
+   courses:
+   - course: MPH, Public Health Administration and Policy
+     institution: Des Moines University
+     year: Expected May 2025
+   - course: MSc, Epidemiology
+     institution: University of Guelph
+     year: 2019
+   - course: BA, Biochemistry
+     institution: University of Northern Iowa
+     year: 2014
 
-  - block: markdown
-    id: tools
-    content:
-      title: Section 1
-      subtitle: A subtitle
-      text:
-          - https://wurtzite.shinyapps.io/HBCV2024/
-          - https://wurtzite.shinyapps.io/syphilisclassification/
-            
-  # Skills
-  # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# Tools to show in About widget
+tools:
+- Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
+- Syphilis Classification Tool, https://wurtzite.shinyapps.io/syphilisclassification/
+
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
   skills:
     - name: Technical
       items:

@@ -13,10 +13,10 @@ sections:
       username: admin
     
   - block: 
-      id: tools
+    id: tools
     
   - block: 
-      id: skills
+    id: skills
         
   - block: experience
     id: experiences 

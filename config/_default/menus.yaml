@@ -9,6 +9,7 @@ main:
     weight: 10
   - name: Tools
     url: '#tools'
+    weight: 15
   - name: Experiences
     url: '#experiences'
     weight: 20

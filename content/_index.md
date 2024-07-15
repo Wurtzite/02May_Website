@@ -21,8 +21,6 @@ sections:
   - block: 
     id: skills
       - Artificial Intelligence
-      - Computational Linguistics
-      - Information Retrieval: hepatitis
 
   - block: experience
     id: experiences 

@@ -48,7 +48,6 @@ education:
     - course: BA, Biochemistry
       institution: University of Northern Iowa
       year: 2014
-# Tools to show in About widget
   tools:
     - https://wurtzite.shinyapps.io/HBCV2024/
     - https://wurtzite.shinyapps.io/syphilisclassification/

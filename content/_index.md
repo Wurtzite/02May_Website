@@ -20,8 +20,11 @@ sections:
       date_format: Jan 2006
       items:
         - title: Viral Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
-          Granting Agency: Centers for Disease Control and Prevention (CDC).
-          date_start: '2024-07-15'
+          Granting Agency: ''
+          date_start: ''
+        - title: Syphilis Classification Tool, https://wurtzite.shinyapps.io/syphilisclassification/
+          Granting Agency: ''
+          date_start: ''
     design:
       columns: '2'
 

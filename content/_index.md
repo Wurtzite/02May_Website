@@ -13,22 +13,6 @@ sections:
       username: admin
     
   - block: experience
-    id: tools 
-    content:
-      title: Tools
-      subtitle:
-      date_format: Jan 2006
-      items:
-        - title: Viral Hepatitis Classification Tool 
-          company: https://wurtzite.shinyapps.io/HBCV2024/
-          date_start: '2024-07-15'
-        - title: Syphilis Classification Tool
-          company: https://wurtzite.shinyapps.io/syphilisclassification/
-          date_start: '2024-07-15'
-    design:
-      columns: '2'
-
-  - block: experience
     id: experiences 
     content:
       title: Experiences
@@ -122,6 +106,23 @@ sections:
           date_end: '2014-05-01'
     design:
       columns: '2'
+    
+  - block: experience
+    id: tools 
+    content:
+      title: Tools
+      subtitle:
+      date_format: Jan 2006
+      items:
+        - title: Viral Hepatitis Classification Tool 
+          company: https://wurtzite.shinyapps.io/HBCV2024/
+          date_start: '2024-07-15'
+        - title: Syphilis Classification Tool
+          company: https://wurtzite.shinyapps.io/syphilisclassification/
+          date_start: '2024-07-15'
+    design:
+      columns: '2'
+
   - block: markdown
     content:
       title: Gallery

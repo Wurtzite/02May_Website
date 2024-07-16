@@ -12,14 +12,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: markdown
-    id: section-1
-      - Information Retrieval
-       
-  - block: markdown
-    id: section-2
-      - Artificial Intelligence
-
   - block: experience
     id: experiences 
     content:

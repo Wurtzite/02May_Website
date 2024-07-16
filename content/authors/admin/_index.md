@@ -34,10 +34,8 @@ interests:
    - People who inject drugs
    - Sexual and gender minority health
    - Public health security
-   - AI/ML methods
-   - Public health tools
-     - Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
-     - Syphilis Classification Tool, https://wurtzite.shinyapps.io/syphilisclassification/ 
+   - AI/ML methods and tools
+   
       
 # Education to show in About widget
 education:

@@ -14,10 +14,8 @@ sections:
   - block: markdown
     id: tools 
     content:
-      title: tools
-      items:
-        - title: Viral Hepatitis Classification Tool
-        - url: https://wurtzite.shinyapps.io/HBCV2024/
+      title: Tools
+      items: - title: Viral Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
     design:
       columns: '2'
 

@@ -15,7 +15,7 @@ sections:
     id: tools 
     content:
       title: Tools
-      items:
+      text:
         - Viral Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
         - Syphilis Classification Tool, https://wurtzite.shinyapps.io/syphilisclassification/
     design:

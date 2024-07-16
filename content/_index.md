@@ -12,12 +12,16 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     
-  - block: markdown
+  - block: experience
     id: tools 
     content:
       title: Tools
       subtitle:
-      items: Viral Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
+      date_format: Jan 2006
+      items:
+        - title: Viral Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
+          Granting Agency: Centers for Disease Control and Prevention (CDC).
+          date_start: '2024-07-15'
     design:
       columns: '2'
 

@@ -51,33 +51,33 @@ education:
 
 # Tools to show in About widget
 tools:
-- Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
-- Syphilis Classification Tool, https://wurtzite.shinyapps.io/syphilisclassification/
+  - Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
+  - Syphilis Classification Tool, https://wurtzite.shinyapps.io/syphilisclassification/
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-  skills:
-    - name: Technical
-      items:
-        - name: R-studio
-          description: ''
-          percent: 65
-          icon: rstudio-original
-          icon_pack: custom
-        - name: Stata
-          description: ''
-          percent: 80
-          icon: stata-original-wordmark
-          icon_pack: custom
-        - name: Model Building
-          description: ''
-          percent: 90
-          icon: chart-line
-          icon_pack: fas
-    - name: Hobbies
-      color: '#eeac02'
-      color_border: '#f0bf23'
-      items:
+skills:
+  - name: Technical
+    items:
+      - name: R-studio
+        description: ''
+        percent: 65
+        icon: rstudio-original
+        icon_pack: custom
+      - name: Stata
+        description: ''
+        percent: 80
+        icon: stata-original-wordmark
+        icon_pack: custom
+      - name: Model Building
+        description: ''
+        percent: 90
+        icon: chart-line
+        icon_pack: fas
+      - name: Hobbies
+        color: '#eeac02'
+        color_border: '#f0bf23'
+        items:
         - name: Cardio
           description: ''
           percent: 10

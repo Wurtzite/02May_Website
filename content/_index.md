@@ -11,12 +11,12 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    
   - block: markdown
     id: tools 
     content:
       title: Tools
       description: Viral Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
-        - Syphilis Classification Tool, https://wurtzite.shinyapps.io/syphilisclassification/
     design:
       columns: '2'
 

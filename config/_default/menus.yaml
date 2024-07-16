@@ -13,6 +13,8 @@ main:
   - name: Awards
     url: '#award'
     weight: 30
+  - name: Tools
+    url: '#tools'
   - name: Contact
     url: '#contact'
     weight: 40

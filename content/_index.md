@@ -16,7 +16,7 @@ sections:
     id: tools 
     content:
       title: Tools
-      description: Viral Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
+      - Viral Hepatitis Classification Tool, https://wurtzite.shinyapps.io/HBCV2024/
     design:
       columns: '2'
 

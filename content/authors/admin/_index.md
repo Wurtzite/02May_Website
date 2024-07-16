@@ -36,7 +36,6 @@ interests:
    - Public health security
    - AI/ML methods and tools
    
-      
 # Education to show in About widget
 education:
    courses:

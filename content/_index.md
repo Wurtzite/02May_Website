@@ -20,11 +20,11 @@ sections:
       date_format: Jan 2006
       items:
         - title: Viral Hepatitis Classification Tool 
-          Granting Agency: https://wurtzite.shinyapps.io/HBCV2024/
-          date_start: 
+          Granting Agency: 'https://wurtzite.shinyapps.io/HBCV2024/'
+          date_start: '2021-07-15'
         - title: Syphilis Classification Tool
-          Granting Agency: https://wurtzite.shinyapps.io/syphilisclassification/
-          date_start: 'July 2024'
+          Granting Agency: 'https://wurtzite.shinyapps.io/syphilisclassification/'
+          date_start: '2024-07-15'
     design:
       columns: '2'
 

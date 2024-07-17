@@ -120,6 +120,9 @@ sections:
         - title: Syphilis Classification Tool, In Progress
           company: https://wurtzite.shinyapps.io/syphilisclassification/
           date_start: '2024-07-15'
+        - title: Syndromic Surveillance for Outbreak Detection
+          company: https://wurtzite.shinyapps.io/SyndromicSurveillance/
+          datastart: '2024-07-16'
     design:
       columns: '2'
 

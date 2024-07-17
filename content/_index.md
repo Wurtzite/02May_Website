@@ -120,7 +120,7 @@ sections:
         - title: Viral Hepatitis Classification Tool 
           company: https://wurtzite.shinyapps.io/HBCV2024/
           date_start: '2024-07-15'
-        - title: Syphilis Classification Tool (In Progress)
+        - title: Syphilis Classification Tool, In Progress
           company: https://wurtzite.shinyapps.io/syphilisclassification/
           date_start: '2024-07-15'
     design:

@@ -114,9 +114,6 @@ sections:
       subtitle:
       date_format: Jan 2006
       items:
-        - title: Syndromic Surveillance for Outbreak Detection
-          company: https://wurtzite.shinyapps.io/SyndromicSurveillance/
-          datastart: '2024-07-16'
         - title: Viral Hepatitis Classification Tool 
           company: https://wurtzite.shinyapps.io/HBCV2024/
           date_start: '2024-07-15'

@@ -41,7 +41,7 @@ education:
    courses:
    - course: MPH, Public Health Administration and Policy
      institution: Des Moines University
-     year: Expected May 2025
+     year: 2025
    - course: MSc, Epidemiology
      institution: University of Guelph
      year: 2019

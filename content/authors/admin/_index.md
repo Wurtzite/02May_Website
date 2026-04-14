@@ -39,6 +39,9 @@ interests:
 # Education to show in About widget
 education:
    courses:
+   - course: DrPH, Epidemiology
+     institution: University of Nebraska Medical Center
+     year: 2026 - Present
    - course: MPH, Public Health Administration and Policy
      institution: Des Moines University
      year: 2025

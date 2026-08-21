@@ -63,9 +63,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?hl=en&user=uwK7hQ0AAAAJ
-  - icon = "orcid"
-    icon_pack = "fab"
-    link = "https://orcid.org/0000-0003-1288-9436"
+  - icon = orcid
+    icon_pack = fab
+    link = https://orcid.org/0000-0003-1288-9436
   - icon: github
     icon_pack: fab
     link: https://github.com/Wurtzite

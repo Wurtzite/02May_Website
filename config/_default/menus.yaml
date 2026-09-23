@@ -1,27 +1,66 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
+#   Links to homepage sections use `/#` followed by the section `id` in `content/_index.md`,
+#     so they keep working from the other pages.
+#   Items with a `parent` appear in the dropdown of the item whose `identifier` matches.
 #   The weight parameter defines the order that the links will appear in.
 
 main:
   - name: Home
-    url: '#about'
+    url: '/'
     weight: 10
-  - name: Experiences
-    url: '#experiences'
-    weight: 20
-  - name: Awards
-    url: '#award'
-    weight: 30
-  - name: Tools
-    url: '#tools'
-    weight: 40
-  - name: Contact
-    url: '#contact'
-    weight: 50
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: About
+    identifier: about
+    weight: 20
+  - name: Biography
+    url: '/biography/'
+    parent: about
+    weight: 1
+  - name: Experience (CV/Resume)
+    url: '/experience/'
+    parent: about
+    weight: 2
+  - name: Service
+    url: '/service/'
+    parent: about
+    weight: 3
+
+  - name: Public Health
+    identifier: public-health
+    weight: 30
+  - name: Practice Interests
+    url: '/practice-interests/'
+    parent: public-health
+    weight: 1
+  - name: Research Interests & Reflections
+    url: '/research-interests/'
+    parent: public-health
+    weight: 2
+  - name: DrPH Competencies
+    url: '/competencies/'
+    parent: public-health
+    weight: 3
+  - name: Leadership, Teaching & Health Equity
+    url: '/statements/'
+    parent: public-health
+    weight: 4
+
+  - name: Presentations & Papers
+    url: '/presentations/'
+    weight: 40
+
+  - name: Coursework
+    identifier: coursework
+    weight: 50
+  - name: All Coursework
+    url: '/coursework/'
+    parent: coursework
+    weight: 1
+  - name: CPH 705
+    url: '/coursework/cph-705/'
+    parent: coursework
+    weight: 2
+
+  - name: Contact
+    url: '/#contact'
+    weight: 60

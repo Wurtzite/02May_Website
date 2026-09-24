@@ -56,7 +56,7 @@ main:
     url: '/coursework/'
     parent: coursework
     weight: 1
-  - name: CPH 705
+  - name: 'CPH 705: Teaching & Training'
     url: '/coursework/cph-705/'
     parent: coursework
     weight: 2

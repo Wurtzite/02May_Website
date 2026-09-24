@@ -12,7 +12,7 @@ editable: false
 
 | Course | Title | Term |
 |---|---|---|
-| [CPH 705](/coursework/cph-705/) | *Course title* | *Term* |
+| [CPH 705](/coursework/cph-705/) | Public Health Teaching and Training | Fall 2026 |
 | *Course number* | *Course title* | *Term* |
 
 ## MPH, Public Health Administration and Policy: Des Moines University

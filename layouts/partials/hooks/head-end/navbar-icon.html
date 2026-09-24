@@ -1,0 +1,12 @@
+{{/* Show the site icon (virus) beside the site title in the navbar. */}}
+<style>
+  .navbar-brand::before {
+    content: "";
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: 0.4em;
+    vertical-align: middle;
+    background: url("{{ "media/navbar-icon.png" | relURL }}") center / contain no-repeat;
+  }
+</style>

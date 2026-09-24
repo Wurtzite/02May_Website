@@ -73,6 +73,18 @@ editable: false
 - **MSc, Epidemiology**, Department of Population Medicine, University of Guelph (2017 – 2019)
 - **BA, Biochemistry**, Department of Chemistry, University of Northern Iowa (2010 – 2014)
 
+## Awards and Honours
+
+- Distinguished Achievement Award, Des Moines University (2026)
+- Special Recognition Award, Des Moines University (2026)
+- Outstanding Student Chapter Award, American Chemical Society (2014)
+- Research Grant, University of Northern Iowa, College of Arts & Science (2013)
+- Best College LGBT Group Award, Iowa Pride Network (2013)
+- ACS Travel Award, American Chemical Society (2011)
+- Student Opportunities for Academic Research Grant, University of Northern Iowa (2010)
+- Entrance Scholarship, University of Northern Iowa (2010)
+- Undergraduate Research Scholarship, University of Northern Iowa (2010)
+
 ## Projects and Tools
 
 - **Syndromic Surveillance Dashboard for Outbreak Detection** (Jul 2024 – Present), Developer and Epidemiologist  

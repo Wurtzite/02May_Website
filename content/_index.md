@@ -69,39 +69,48 @@ sections:
       date_format: Jan 2006
       # Awards & Honours.
       #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   `title`, `company`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Distinguished Achievement Award
+          company: Des Moines University
+          date_start: '2026-05-01'
+          date_end: '2026-05-01'
+        - title: Special Recognition Award
+          company: Des Moines University
+          date_start: '2026-05-01'
+          date_end: '2026-05-01'
         - title: PS21-2103 Integrated Viral Hepatitis Surveillance and Prevention Funding for Health Departments
-          Granting Agency: Centers for Disease Control and Prevention (CDC).
+          company: Centers for Disease Control and Prevention (CDC)
           date_start: '2021-05-01'
+          date_end: '2021-05-01'
         - title: Outstanding Chapter Award
-          organization: American Chemical Society
+          company: American Chemical Society
           date_start: '2014-01-01'
           date_end: '2014-05-01'
         - title: Research Grant
-          organization: University of Northern Iowa
+          company: University of Northern Iowa
           date_start: '2013-05-01'
           date_end: '2013-08-01'
         - title: Best College LGBT Group Award
-          organization: Iowa Pride Network
+          company: Iowa Pride Network
           date_start: '2013-01-01'
           date_end: '2013-05-01'
         - title: ACS Travel Award
-          organization: American Chemical Society
+          company: American Chemical Society
           date_start: '2011-05-01'
           date_end: '2011-05-01'
         - title: SOAR Grant, Research
-          organization: University of Northern Iowa
+          company: University of Northern Iowa
           date_start: '2011-11-01'
           date_end: '2011-11-01'
         - title: Undergraduate Research Scholarship 
-          organization: University of Northern Iowa
+          company: University of Northern Iowa
           date_start: '2011-08-01'
           date_end: '2012-05-01'
         - title: Entrance Scholarship 
-          organization: University of Northern Iowa
+          company: University of Northern Iowa
           date_start: '2010-08-01'
           date_end: '2014-05-01'
     design:

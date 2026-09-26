@@ -39,7 +39,7 @@ sections:
           company_logo:
           location: Sioux Lookout, Ontario Canada
           date_start: '2019-07-02'
-          date_end: '2021-03-07'
+          date_end: '2021-08-01'
           description:
         - title: Data Clerk
           company: Wellington Dufferin Guelph Public Health
@@ -47,15 +47,23 @@ sections:
           company_logo:
           location: Guelph, Ontario Canada
           date_start: '2018-09-01'
-          date_end: '2019-09-01'
+          date_end: '2019-07-01'
           description:
-        - title: Chemist, Laboratory Manager
+        - title: Laboratory Manager
           company: Northland Technical Laboratories
           company_url: 
           company_logo:
-          location: Concord, Ontario Canada
+          location: Toronto, Ontario Canada
           date_start: '2014-08-01'
           date_end: '2018-01-01'
+          description: 
+        - title: Associate Scientist
+          company: Northland Products Company
+          company_url: 
+          company_logo:
+          location: Waterloo, Iowa United States
+          date_start: '2012-08-01'
+          date_end: '2014-05-01'
           description: 
     design:
       columns: '2'
@@ -85,7 +93,7 @@ sections:
           company: Centers for Disease Control and Prevention (CDC)
           date_start: '2021-05-01'
           date_end: '2021-05-01'
-        - title: Outstanding Chapter Award
+        - title: Outstanding Student Chapter Award
           company: American Chemical Society
           date_start: '2014-01-01'
           date_end: '2014-05-01'
@@ -101,14 +109,14 @@ sections:
           company: American Chemical Society
           date_start: '2011-05-01'
           date_end: '2011-05-01'
-        - title: SOAR Grant, Research
+        - title: Student Opportunities for Academic Research (SOAR) Grant
           company: University of Northern Iowa
-          date_start: '2011-11-01'
-          date_end: '2011-11-01'
+          date_start: '2010-11-01'
+          date_end: '2010-11-01'
         - title: Undergraduate Research Scholarship 
           company: University of Northern Iowa
-          date_start: '2011-08-01'
-          date_end: '2012-05-01'
+          date_start: '2010-08-01'
+          date_end: '2011-05-01'
         - title: Entrance Scholarship 
           company: University of Northern Iowa
           date_start: '2010-08-01'

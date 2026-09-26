@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Epidemiologist
+title: Justinian Wurtzel
 
 # Name pronunciation (optional)
-name_pronunciation: Justinian
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Justinian
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Viral Hepatitis Surveillance Coordinator
+role: Epidemiologist | Viral Hepatitis Surveillance Coordinator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://hhs.iowa.gov/public-health/sexually-transmitted-infections/hepatitis-program
 
 # Short bio (displayed in user profile at end of posts)
-bio: Example Bio
+bio: Epidemiologist and DrPH student focused on HIV, STI, and viral hepatitis surveillance and health equity.
 
 # Interests to show in About widget
 interests:

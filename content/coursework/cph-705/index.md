@@ -40,7 +40,7 @@ This course builds the skills to design and deliver public health teaching and t
 | Evaluation Assignment | Oct 4, 2026 | DrPH F18 | *To be added* |
 | Topic/Instructional Analysis of Module Concepts | Oct 11, 2026 | DrPH F20 | *To be added* |
 | Draft Teaching Philosophy Statement | Oct 18, 2026 | DrPH F20 | *To be added* |
-| In-Person Public Health Teaching/Training Project | Nov 8, 2026 | DrPH F19 | [Assessment (PDF)](in-person-training-assessment.pdf); presentation and handout to be added |
+| In-Person Public Health Teaching/Training Project | Nov 8, 2026 | DrPH F19 | [Assessment (PDF)](in-person-training-assessment.pdf)<br>[Handout (PDF)](in-person-training-handout.pdf)<br>Presentation to be added |
 | Synchronous Distance Public Health Teaching/Training Project | Nov 22, 2026 | DrPH F19 | *To be added* |
 | Teaching Philosophy Statement | Dec 6, 2026 | DrPH F20 | *To be added* |
 | Asynchronous (Fully Online) Public Health Teaching/Training Project | Dec 13, 2026 | DrPH F19 | *To be added* |
